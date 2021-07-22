@@ -1,12 +1,12 @@
-# Kshitij Dhyani
+# Kshitij Dhyani 👽
 
 ![My Banner](/banner.png)
- 👽
-![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
 **I pump iron during the day and smash my keyboard in the night.🐙** 
 
 ## Study Buddy 🐕
+
+![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
 🌌 The 𝐂𝐨𝐯𝐢𝐝-𝟏𝟗 𝐏𝐞𝐧𝐝𝐚𝐦𝐢𝐜 forced the education industry to keep an 𝐨𝐧𝐥𝐢𝐧𝐞 𝐬𝐞𝐦𝐞𝐬𝐭𝐞𝐫. This resulted in 𝐩𝐨𝐨𝐫 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧, the 𝐬𝐩𝐫𝐞𝐚𝐝 𝐨𝐟 𝐦𝐢𝐬𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, and a 𝐥𝐚𝐜𝐤 𝐨𝐟 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
 
