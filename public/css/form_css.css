@@ -1,0 +1,12 @@
+.pata_form {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .heading_for_form {
+        font-size: 1.4rem;
+    }
+}

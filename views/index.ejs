@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136415898-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-136415898-3');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="https://res.cloudinary.com/sankarkvs/image/upload/v1594451971/images/VinnovateIT-shape_paq5pr.png">
+  <title>Semester Buddy</title>
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="https://semesterbuddy.herokuapp.com/">
+  <meta name=" twitter:title" content="Semester Buddy">
+  <meta name="twitter:description" content="A small gift by VinnovateIT , to make your Online semester a cake walk.">
+  <meta name="twitter:image" content="https://image.flaticon.com/icons/svg/3174/3174974.svg">
+  <meta property="og:title" content="Semester Buddy">
+  <meta property="og:url" content="https://semesterbuddy.herokuapp.com/">
+  <meta property="og:description" content="A small gift by VinnovateIT , to make your Online semester a cake walk.">
+  <meta property="og:image" itemprop="image" content="https://image.flaticon.com/icons/svg/3174/3174974.svg">
+
+
+  <!-- CSS -->
+  <link href="/css/styles.css" rel="stylesheet" type="text/css">
+
+  <!-- FONT AWSOME -->
+  <script src="https://kit.fontawesome.com/b08ceb4ff9.js" crossorigin="anonymous"></script>
+
+  <!-- BOOTSTRAP -->
+  <!-- CSS only -->
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+  <!-- JS, Popper.js, and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+    </script>
+  <style>
+    @media only screen and (max-width: 500px) {
+
+      .mobile-card {
+        height: 40%;
+      }
+
+      .m-auto {
+        margin: 15px !important
+      }
+
+      .w-75 {
+        width: 90% !important;
+      }
+
+      .p-5 {
+        padding: 10px !important;
+      }
+
+      .row {
+        flex-wrap: nowrap !important;
+      }
+
+      .wrap {
+        width: 90%
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="heading_name w-100 text-center p-3 my-5" stye="">  <span class="suddy_letter"> S </span> <span class="suddy_letter"> U </span> <span class="suddy_letter"> D </span> <span class="suddy_letter"> D </span> <span class="suddy_letter"> Y </span> </div>
+
+  <div class="papa_search">
+    <div class="wrap">
+      <div class="search">
+        <form action="/results" class="papa_search" method="POST">
+          <input type="text" name="subject" class="searchTerm"
+            placeholder="Eg : Analog and Digital Circuit or Faculty or Slot">
+          <button type="submit" class="searchButton">
+            <i class="fa fa-search"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <br>
+  <% for(var i=0 ; i<text.length ; i++)
+
+        {
+
+         %>
+  <div class="my-4">
+    <div class="card m-auto box_show w-75 shadow-lg" style="width: 18rem;">
+      <div class="card-body p-5 text-center mobile-card">
+        <h5 class="card-title"><%=text[i].Subject%></h5>
+        <% if(text[i]['Faculty Name'] != "") { %>
+        <h6 class="card-subtitle mb-2 class_slot "><%=text[i]["Faculty name"]%> | <%=text[i]["Slot"]%></h6>
+        <% }else{%>
+        <h6 class="card-subtitle mb-2 class_slot "><%=text[i]["Slot"]%></h6>
+        <%}%>
+        <p class="card-text">Made with 💞  by 𝐕𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐞𝐢𝐭 , follow us on instagram by clicking <a
+            href="https://www.instagram.com/vinnovateit/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+        <div class="row ">
+          <% if(text[i]['Telegram'] == "") { %>
+
+        <div class="col-lg-12 my-2 centrula">
+          <a target="_blank" href="<%=text[i]['Whatsapp Link']%>" onclick="joined_group()"
+            class="card-link m-auto"><button type="button" class="btn btn-success">Whatsapp <i
+                class="fab fa-whatsapp"></i></button></a>
+        </div>
+        <% }else{ %>
+        <div class="col-lg-6 my-2 centrula">
+          <% if(text[i]['Whatsapp Link'] != 'NA') { %>
+          <a target="_blank" href="<%=text[i]['Whatsapp Link']%>" onclick="joined_group()"
+            class="card-link m-auto"><button type="button" class="btn btn-success">Whatsapp <i
+                class="fab fa-whatsapp"></i></button></a>
+          <% } %>
+        </div>
+        <% } %>
+
+        <% if(text[i]['Telegram'] != "") {%>
+        <div class="col-lg-6 my-2 centrula"></div>
+        <a target="_blank" href="<%=text[i]['Telegram']%>" class="card-link m-auto"><button type="button"
+            class="btn btn-primary">Telegram <i class="fab fa-telegram-plane"></i></button></a>
+      </div>
+      <%}%>
+
+              </div>
+            </div>
+          </div>
+        </div>
+         <%}%>
+      <div class="form_fill_button">
+        <a href="/form"><i class="fas fa-plus"></i></a>
+      </div>
+
+
+      <!-- MODAL -->
+      <div class="modal" tabindex="-1" id="myModal" role="dialog">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Join the Family🌸.</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body text-center">
+              <img src="https://image.flaticon.com/icons/svg/733/733558.svg" height="100px" width="100px" alt="">
+              <p>Follow us on instagram and get access to more such amazing tools, and breeze through your college
+                life.</p>
+              <a href="https://www.instagram.com/vinnovateit/" target="_blank" rel="noopener noreferrer"><button
+                  type="button" class="btn btn-outline-success">Follow</button></a>
+            </div>
+            <div class="modal-footer">
+
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+          </div>
+        </div>
+      </div>
+</body>
+<script>
+  if (localStorage.getItem("groups_joined") == null) {
+    localStorage.setItem("groups_joined", 0)
+  }
+
+
+  if (localStorage.getItem("groups_joined") == "5") {
+    console.log("POP UP TRIGGERED")
+    $('#myModal').modal('show')
+  }
+
+  function joined_group() {
+    console.log("FUNCTION TRIGGERED")
+    if (localStorage.getItem("groups_joined") < 5) {
+      console.log("INCREASE")
+      localStorage.setItem("groups_joined", (parseFloat(localStorage.getItem("groups_joined")) + 1).toString());
+    } else {
+      console.log("RESET")
+      localStorage.setItem("groups_joined", 0);
+    }
+
+  }
+</script>
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-messaging.js"></script>
+<script type="text/javascript">
+  function showToken(a) {
+    fetch(
+      "https://webhooks.mongodb-stitch.com/api/client/v2.0/app/semesterbuddy-hadkw/service/sendtokens/incoming_webhook/webhook0", {
+      method: "POST",
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        token: a
+      })
+    })
+  }
+  var firebaseConfig = {
+    apiKey: "AIzaSyA0FuiiBzZLKGx2Gd6NaYFeBhmWv99MJdw",
+    authDomain: "semester-buddy-6dcfc.firebaseapp.com",
+    databaseURL: "https://semester-buddy-6dcfc.firebaseio.com",
+    projectId: "semester-buddy-6dcfc",
+    storageBucket: "semester-buddy-6dcfc.appspot.com",
+    messagingSenderId: "911723924413",
+    appId: "1:911723924413:web:615d9d3971c6a77331e0d4",
+    measurementId: "G-B9RHF6XW2G"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+
+  const messaging = firebase.messaging();
+  messaging.usePublicVapidKey(
+    "BJ9l7bESuwtl0NsigCJxWp4jJYNjDBz5lu1rRL-dzwO_FXQn4AkabD8gzDwTEh0ADbwhPpH3WsSKyiRn0vDfeNg"
+  );
+  messaging.requestPermission().then(() => {
+    console.log("granted");
+  });
+  messaging
+    .getToken()
+    .then((currentToken) => {
+      if (currentToken) {
+        showToken(currentToken);
+      } else {
+        // Show permission request.
+        console.log(
+          "No Instance ID token available. Request permission to generate one."
+        );
+        // Show permission UI.
+        updateUIForPushPermissionRequired();
+        setTokenSentToServer(false);
+      }
+    })
+    .catch((err) => {
+      console.log("An error occurred while retrieving token. ", err);
+      showToken("Error retrieving Instance ID token. ", err);
+      //setTokenSentToServer(false);
+    });
+
+  messaging.onMessage((payload) => {
+    var obj = JSON.parse(payload.data.notification);
+    var notification = new Notification(obj.title, {
+      icon: obj.icon,
+      body: obj.body,
+    });
+  });
+  // // Your web app's Firebase configuration
+
+  // if ("serviceWorker" in navigator) {
+  //   window.addEventListener("load", () => {
+  //     navigator.serviceWorker
+  //       .register("./firebase-messaging-sw.js")//register firebase-messaging-sw.js in public folder
+  //       .then((reg) => console.log("Success: ", reg.scope))
+  //       .catch((err) => console.log(err));
+  //   });
+  // }
+</script>
+
+</html>

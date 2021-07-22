@@ -1,0 +1,3555 @@
+﻿[
+    {
+        "Sl.No": "1",
+        "Subject": "Advanced control theory",
+        "Faculty name": "Arun N",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Egq7koooJsw6P4BRURm5vF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "2",
+        "Subject": "Agile Development Process",
+        "Faculty name": "Prabadevi B",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/H2VCEWUpgjFFQ3RPYq9EcY",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "3",
+        "Subject": "AI with Python",
+        "Faculty name": "Hemprasad Yashwant Patil",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LNNceYhnzOa2tbZDzhyhEu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "4",
+        "Subject": "ALA",
+        "Faculty name": "PRAVEEN T",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/H2XdAS8uZV6HnToClpLHva",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "5",
+        "Subject": "ALA",
+        "Faculty name": "Veeramani S",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CxZzluFmFQ1A8r00SnFyyh",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "6",
+        "Subject": "ALA",
+        "Faculty name": "RAJASEKARAN.G",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LdqSelZ5ShaHRAUmySxv0Y",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "7",
+        "Subject": "Analog and Digital Circuit",
+        "Faculty name": "Washima Tasnin",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/D3FIaC2RvAR0tGay5dRb9d",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "8",
+        "Subject": "Analog and Digital Controls",
+        "Faculty name": "Rashmi Ranjan Das",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EvXPLs7MO9eLRBwX74gjX7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "9",
+        "Subject": "Analog Electronic Circuits",
+        "Faculty name": "JASMIN PEMEENA PRIYADARSHINI M",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EQFW7kvAL1g7C0mB06NrFv",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "10",
+        "Subject": "Analog Electronic Circuits",
+        "Faculty name": "Rajesh Kumar V",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JwVtFMHE0cXGHgAz8hDnTf",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "11",
+        "Subject": "ANM",
+        "Faculty name": "Natarajan G",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/I7p34lDDcVw81ye2BTQgsZ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "12",
+        "Subject": "ANM",
+        "Faculty name": "Jagdeesh Kumar MS",
+        "Slot": "A2+TA2+TAA2+V3",
+        "Whatsapp Link": "https://chat.whatsapp.com/GMczQ2cxBc07AU0pZDtr0z",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "13",
+        "Subject": "ANM",
+        "Faculty name": "Pradeep kumar saroj",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GmF93niiDQ3E7AaEr34pcL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "14",
+        "Subject": "AOD",
+        "Faculty name": "Parvez alam",
+        "Slot": "D2+TD2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ISZAPoYwrTf5Rm59XZwmhi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "15",
+        "Subject": "AOD",
+        "Faculty name": "Aruna k",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/If5uUNuaObP8IMoXeDwdi3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "16",
+        "Subject": "AOD",
+        "Faculty name": "Sumant Kumar",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ft8oxAroKmRLSpyvBLcitu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "17",
+        "Subject": "AOD",
+        "Faculty name": "Karthika K",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HRLvwnsz07BK0AqqcMeGUL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "18",
+        "Subject": "AOD",
+        "Faculty name": "Jagadeesh kumar k",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/ETLlIE5CGvF0hQA1QpCtcQ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "19",
+        "Subject": "AOD",
+        "Faculty name": "Rajshekharan G",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cn1qk8jlLVo4nrhz0EGG8q",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "20",
+        "Subject": "AOD",
+        "Faculty name": "Manjari Sidarth",
+        "Slot": "G2+TG2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JZtPSxfRikf3Nm5k6s2i3s",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "21",
+        "Subject": "AOD",
+        "Faculty name": "Debaroti Das",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ia2B7BG8ZNsDEnOUS1bsMn",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "22",
+        "Subject": "AOD",
+        "Faculty name": "Manjari Sidharth",
+        "Slot": "G1 + TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/H7xQeSv5xOZLNnMsDVlHBL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "23",
+        "Subject": "AOD",
+        "Faculty name": "Jagadeesh kumar",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BtWJZFwN3E10gllkyRTC67",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "24",
+        "Subject": "AOD",
+        "Faculty name": "Debaroti Das",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BlvyWn4M8fxHNF4VmGC7e5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "25",
+        "Subject": "AOD",
+        "Faculty name": "Debaroti Das",
+        "Slot": "D2+TD2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BlvyWn4M8fxHNF4VmGC7e5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "26",
+        "Subject": "AOD",
+        "Faculty name": "SUMANT KUMAR",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HKBodYGa1in0fUpkPuHvSz",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "27",
+        "Subject": "Application of Derivatives",
+        "Faculty name": "Rajsekaran G",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cn1qk8jlLVo4nrhz0EGG8q",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "28",
+        "Subject": "Application of Differential & Difference Equations",
+        "Faculty name": "Karthika K.",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FjeZAKhcBcF3ijlqTwXC9C",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "29",
+        "Subject": "Application of Differential & Difference Equations",
+        "Faculty name": "Karthika K.",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/I5Jdji02bjr6koAPi3WxSF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "30",
+        "Subject": "Application of Differential and Difference Equations",
+        "Faculty name": "Rachna Bhatia",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IXjxM6YIfKZKtCxFhXXKEi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "31",
+        "Subject": "Applied Linear Algebra",
+        "Faculty name": "Bala anki reddy pol",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EbjjJXOOYAhHD1MmWqo4zz",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "32",
+        "Subject": "Applied Linear Algebra",
+        "Faculty name": "Ashish Kumar Prasad",
+        "Slot": "A2+TA2+TAA2+V3",
+        "Whatsapp Link": "https://chat.whatsapp.com/C0ZefrCdfgD3myMAqhlROn",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "33",
+        "Subject": "Applied Linear Algebra",
+        "Faculty name": "Lakshmi Narayan Mishra",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G93zew05ivkLYuaWp9Ncy4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "34",
+        "Subject": "Applied Numerical Methods",
+        "Faculty name": "Umakanta mishra",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HzyAZiH0xBjFveRtvR1RcH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "35",
+        "Subject": "Applied Numerical Methods",
+        "Faculty name": "Indhira K",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DXmbeVscZDsI6nWfqdNLlH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "36",
+        "Subject": "Applied Numerical Methods",
+        "Faculty name": "Prasad theeda",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EqBVSCG0mk9LgmIvdnL7RW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "37",
+        "Subject": "Artificial Intelligence",
+        "Faculty name": "Jyotismita",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ITpB5yswYBJJkF1jWAi63F",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "38",
+        "Subject": "Artificial Intelligence",
+        "Faculty name": "Jyotismita Chaki",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LdUI90X6DMe6k1hwq2BokL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "39",
+        "Subject": "Artificial Intelligence",
+        "Faculty name": "Tapan Kumar Das",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LyFIajEGghq2HX9ufue83H",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "40",
+        "Subject": "Artificial Intelligence(ITE)",
+        "Faculty name": "Ajit Kumar Santra",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LTCA0XTHuSE3s23giCGh15",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "41",
+        "Subject": "ATBT",
+        "Faculty name": "Jayashri",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JICjZOZifNfJuRpac2P7pk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "42",
+        "Subject": "ATBT",
+        "Faculty name": "Rajasekharan",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FDQPMdoyv16IqcbRVgINUU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "43",
+        "Subject": "ATBT",
+        "Faculty name": "Jitendra G",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BC3i7p4jmGmGLlyva35Cs4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "44",
+        "Subject": "ATBT",
+        "Faculty name": "Jayasri",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JICjZOZifNfJuRpac2P7pk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "45",
+        "Subject": "Basics of Structural Design",
+        "Faculty name": "Abdul Rahim A",
+        "Slot": "C2+TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/F8Uyb6LLllr61w4Q92jAZE",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "46",
+        "Subject": "Bio Business",
+        "Faculty name": "Danie",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EBlsv8DXWNXJzbIIH6ll6T",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "47",
+        "Subject": "Bio information technology",
+        "Faculty name": "SHAKTHIVADIVEL D",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LxWMIwEXWjmKSsbcQ0cZaG",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "48",
+        "Subject": "Biobusiness",
+        "Faculty name": "Sudhakharan",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IB6d13uxRR0HDDL6e2uUjb",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "49",
+        "Subject": "Biobusiness",
+        "Faculty name": "Danie",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DlYhVe93gPE8UBqvCGUrFU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "50",
+        "Subject": "Bioinformatics",
+        "Faculty name": "Anand A",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JkvoscHejraK5diXD2wqZo",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "51",
+        "Subject": "Bioinformatics",
+        "Faculty name": "Anand A",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DEVtfD5omc613gsA8NKy1c",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "52",
+        "Subject": "Bioinformatics",
+        "Faculty name": "Sudindira Doss",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G6QksaQgdnhBLltwC7w5D5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "53",
+        "Subject": "Biostatistics",
+        "Faculty name": "Sudhakaran",
+        "Slot": "A1+Ta1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HFJZijUZDHwFNQeTdfkT0y",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "54",
+        "Subject": "Blockchain",
+        "Faculty name": "Balakrishnan",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/F9vUEHXheoRHSlpovauWdR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "55",
+        "Subject": "CAO",
+        "Faculty name": "Bhulakshmi Bonthu",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/E5A1LezF7TKEbD9NMsdz0t",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "56",
+        "Subject": "CAO",
+        "Faculty name": "Ushus Elizabeth",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/K5yab0Et4KI1jzTHZjUpMA",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "57",
+        "Subject": "CAO",
+        "Faculty name": "Selvi M",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ds2fNNjAlJ6AQpl6FFVFE9",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "58",
+        "Subject": "CAO",
+        "Faculty name": "Usha K",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DRkrJxLzXp47Efzrry1SRU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "59",
+        "Subject": "CAO",
+        "Faculty name": "Sivanesan",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DBl9yewro4UL4WljmoG8Co",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "60",
+        "Subject": "CAO",
+        "Faculty name": "Anisha M LAL",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ffk95cgXDYE9r49hauqsuK",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "61",
+        "Subject": "CAO",
+        "Faculty name": "Gopalkrishan T",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GOrCU07NoCu4yx5Yz32nd2",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "62",
+        "Subject": "Chemical Bio sensors",
+        "Faculty name": "Arunkumar chandrasekar",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HqezLhAmnGs9FVIzW8dATl",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "63",
+        "Subject": "Chinese For Beginners",
+        "Faculty name": "Khana baidya",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/I0UZkCdqc3M4Ty5dI65wZm",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "64",
+        "Subject": "Communication engineering",
+        "Faculty name": "Santhakumar R",
+        "Slot": "C2+TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Icxx1bkBjHX1ihIGZAxt7t",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "65",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Vallampati Ramachandra prasad",
+        "Slot": "A2+TA2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DnVEH1NWZDzLqoDz9uxhNR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "66",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Jagdeesh Kumar",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DGQpP87Ncmx8V3UTOha9yZ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "67",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Raghavendar K",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FD6Z3hfiXU86SzjQybW3K1",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "68",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Uma K",
+        "Slot": "C1+TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CMrkZKXh2aQAmxZTUIIsHm",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "69",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Tamizharasi R",
+        "Slot": "A1+TA1+TAA1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HfwIXnNtcpzIO4minr6j2d",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "70",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Madhu V",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/H8Cmq7XiRyLKcdrIIdoXhM",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "71",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Mubashir Unnisa",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DkeOhIe9WsJH5SMHBfD222",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "72",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Kalpana Priya D",
+        "Slot": "A2+TA2+TAA2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DqF0GOv9Io7Lg7cYPAW26H",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "73",
+        "Subject": "Complex Variables and Partial Differential Equations",
+        "Faculty name": "Manjari Sidharth",
+        "Slot": "C2+TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G6sm2vKldefKHBjzfFzBxG",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "74",
+        "Subject": "Computer architecture and organisations",
+        "Faculty name": "Lizo V.P",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GqNuVH47W6t1JIEGPtJJ9Q",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "75",
+        "Subject": "Computer Architecture and Organization",
+        "Faculty name": "Gopalakrishan T",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FlMywAeKlqUAiSTaNCoVsQ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "76",
+        "Subject": "Computer Architecture And Organization",
+        "Faculty name": "Sivanesan S",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JlXMR7R6aKb43Iu2OScYa1",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "77",
+        "Subject": "Control Systems",
+        "Faculty name": "Bagubali",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FeBFs2IxHb16YgN0dE9jzR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "78",
+        "Subject": "Control Systems",
+        "Faculty name": "Dhanamajayalu",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G5gROLE2OgYLo3N6RTWFsy",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "79",
+        "Subject": "Control Systems",
+        "Faculty name": "Bagubali A",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FeBFs2IxHb16YgN0dE9jzR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "80",
+        "Subject": "Control Systems",
+        "Faculty name": "BAAGUBALI",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CIFQyhGtVwA3y92T4AqAce",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "81",
+        "Subject": "CRE",
+        "Faculty name": "Shanthi V",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXpxJ2XKWGJ1MeD8bQDGvF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "82",
+        "Subject": "CRE",
+        "Faculty name": "Shanti V",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXpxJ2XKWGJ1MeD8bQDGvF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "83",
+        "Subject": "CRE",
+        "Faculty name": "Shanti V",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DlYhVe93gPE8UBqvCGUrFU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "84",
+        "Subject": "Cryptography Fundamentals",
+        "Faculty name": "Ilantheral KSPK",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BsjlQ5dbB3QDgmmIee6DSE",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "85",
+        "Subject": "Cse3501 NASSCOM",
+        "Faculty name": "JEYANTHI N",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DfFanELjkon5lSmIJK08UV",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "86",
+        "Subject": "Data Forensics",
+        "Faculty name": "Suresh Kumar N",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CKxBGwVzhN7ItogbIIzc5k",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "87",
+        "Subject": "Data structures and algorithms",
+        "Faculty name": "Anuradha G",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EWxYLwIMl0fGlM87RFFFzM",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "88",
+        "Subject": "Data visualisation",
+        "Faculty name": "Ramani S",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cq2lImfpy7Y5J5ErxymXqj",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "89",
+        "Subject": "Database Management Systems",
+        "Faculty name": "Santosh kumar svn",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BqsORtYmiMN1gFpX1Gkxsb",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "90",
+        "Subject": "Database Management Systems",
+        "Faculty name": "BIMAL KUMAR RAY",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GuQja7bacyM6OgprpmvDK4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "91",
+        "Subject": "Database Management Systems",
+        "Faculty name": "Ranichandra C",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FOH6B6dhC5VFErN6CYzuUt",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "92",
+        "Subject": "Database Management Systems",
+        "Faculty name": "Anand Bihari",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IRa8XAk4SIZ5ez9Mcld47M",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "93",
+        "Subject": "Database Management Systems",
+        "Faculty name": "Prabhavathy P",
+        "Slot": "F2+TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CjSiiGYYdVY0NIvW5WatP9",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "94",
+        "Subject": "Database Management Systems",
+        "Faculty name": "Shantharajah S. P",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/J8CGcNPaHLkD0qAwSFxqbS",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "95",
+        "Subject": "DBMS",
+        "Faculty name": "Karthikeyan J",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EZEo3IlmZnaC4CETQ3jEMU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "96",
+        "Subject": "DBMS",
+        "Faculty name": "Santosh kumar svn",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BqsORtYmiMN1gFpX1Gkxsb",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "97",
+        "Subject": "DBMS",
+        "Faculty name": "Vellingiri",
+        "Slot": "G2+TG2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IuyVwOKHtXFBKyk9Z5p5Ou",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "98",
+        "Subject": "DBMS",
+        "Faculty name": "Nithya.S",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/F2rIIx2HufNGW5t0x7rp0H",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "99",
+        "Subject": "DBMS",
+        "Faculty name": "Karthikeyan J",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/I6eNeVkgBHf5qS6zO5rQUp",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "100",
+        "Subject": "Dbms",
+        "Faculty name": "Angulakshmi M",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KcxMZ30Ry2q4R8tFAphFGr",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "101",
+        "Subject": "DBMS",
+        "Faculty name": "Nancy Victor",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EARnMqiPssFChT1UP0aPO0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "102",
+        "Subject": "DBMS",
+        "Faculty name": "Karthikeyan J",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/I6eNeVkgBHf5qS6zO5rQUp",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "103",
+        "Subject": "DBMS",
+        "Faculty name": "Mohan Kumar P",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L0h8YbLowikI8NWuVSkCIW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "104",
+        "Subject": "DBMS",
+        "Faculty name": "Santosh Kumar SVN",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EyxiOqVgc4YGd8iW8oIdZs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "105",
+        "Subject": "Digital communication system (ECE4001)",
+        "Faculty name": "Sangitha S",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JOlk8gWWMTI4Cq4pfSk6jC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "106",
+        "Subject": "Digital Forensics",
+        "Faculty name": "Naresh K",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LNOIzHxbXvxEzfICz6qNYl",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "107",
+        "Subject": "Digital forensics",
+        "Faculty name": "murgan k",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G8vccwp7e9v90ZuTJ75c7U",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "108",
+        "Subject": "Digital forensics",
+        "Faculty name": "Aju D",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GtIHBaBcJG3KRCJk3mJEMt",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "109",
+        "Subject": "Digital Forensics",
+        "Faculty name": "Murugan K",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G6HRbM0XpMBJCMn0smgeH9",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "110",
+        "Subject": "Digital logic and microprocessor",
+        "Faculty name": "Praveen Kumar reddy M",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Hrz1BhiP7N4IcJopnnXHfr",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "111",
+        "Subject": "Digital logic design",
+        "Faculty name": "Prayline rajabai c",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EtTw5rpdaxjDjpFLK3U5IN",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "112",
+        "Subject": "Digital Logic Design",
+        "Faculty name": "Sri Adibhatla Sridevi",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DoZRmaB0sAD9ltRrOFaBZ8",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "113",
+        "Subject": "Digital Logic Design ECE",
+        "Faculty name": "Sri Adibhatla Sridevi",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Fm4eDed88IcGK4AyTslOTg",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "114",
+        "Subject": "Digital logic microprocessing (SWE1003)",
+        "Faculty name": "Asha Jerlin",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CcT7LlFi8Kl0UV38uLH718",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "115",
+        "Subject": "DIGITAL SIGNAL PROCESSING (ECE2006)",
+        "Faculty name": "RAJESH.N",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JUjFo0oxhiS3xj28tuXUSs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "116",
+        "Subject": "Discrete",
+        "Faculty name": "Jagatheswari S",
+        "Slot": "A2+TA2+TAA2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GY2YOEBtL3IGSUifHUfgXy",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "117",
+        "Subject": "Discrete mathematics",
+        "Faculty name": "ROY.S",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KFEM2xWDe762xghvHT0LH6",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "118",
+        "Subject": "Discrete Mathematics And Graph Theory",
+        "Faculty name": "Clement J",
+        "Slot": "C1+TC1+TCC1+V2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JGGBgfH8MxeJxY816qNA9X",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "119",
+        "Subject": "Discrete Mathematics Graph and theory",
+        "Faculty name": "Yamuna M",
+        "Slot": "A1 Slot",
+        "Whatsapp Link": "https://chat.whatsapp.com/JcxwfdB5ts0DT849vSM5z5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "120",
+        "Subject": "Discrete Maths and Graph Theory",
+        "Faculty name": "Jagatheswari S",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FYhQvf3VSrB4FqYsd6MNvV",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "121",
+        "Subject": "DLD",
+        "Faculty name": "Anitha R",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FuoFWvsRNqO75AqVNwB02T",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "122",
+        "Subject": "DSA",
+        "Faculty name": "Sanjiban shekhar roy",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JynGfc4WcXlDkcfkkSN8Gu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "123",
+        "Subject": "E-mech",
+        "Faculty name": "Raja Singh",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXDTqmDbMsc2ovV1DiTyxW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "124",
+        "Subject": "E. Governence (SWE1012)",
+        "Faculty name": "Jagadeesh",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FByXCddSLzIDWyzfsgPrwq",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "125",
+        "Subject": "ECE1003",
+        "Faculty name": "Lavanya.N",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FNKKWVATb922TGaGCyUnX9",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "126",
+        "Subject": "ECE1006",
+        "Faculty name": "Sakthi Swarrup",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LxdRrCPgYdCJwX5AWgi58M",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "127",
+        "Subject": "ECE3003 Microcontroller and its applications",
+        "Faculty name": "Sumit Kumar Jindal",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JmkTy3lCEy896FdHAwjK1C",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "128",
+        "Subject": "ECE3501 IoT Fundamentals",
+        "Faculty name": "Manimaran P",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/F1fOVbH3kF2IkR1ywA7gj5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "129",
+        "Subject": "ECE3501 IOT:Fundamentals",
+        "Faculty name": "Sankar Ganesh s",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KPF60X7YUxU8ERmz4QBETo",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "130",
+        "Subject": "ECE3999 TARP",
+        "Faculty name": "Kishore V Krishnan",
+        "Slot": "TD2",
+        "Whatsapp Link": "https://chat.whatsapp.com/K57ADDasZHv5E0E5XzBJtD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "131",
+        "Subject": "ECE4001 - ADVANCED MICROCONTROLLERS",
+        "Faculty name": "VIDHAYAPATI C.M.",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Kd3x8WydKfh6ZMTDtYLD98",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "132",
+        "Subject": "ECE4001 DCS",
+        "Faculty name": "Karthikeyan M",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ErorlXiKguA6k6hnkwDMPr",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "133",
+        "Subject": "Economics and Business Finance for Civil Engineers",
+        "Faculty name": "Saravana Kumar MP",
+        "Slot": "G2+TG2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DZRgz5BrDbBAuQx8vzq0xL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "134",
+        "Subject": "EEE3003 Power System Engineering",
+        "Faculty name": "Saravanan B",
+        "Slot": "A1+TA1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KOx1ohdj7NM8xnMnMCwRpn",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "135",
+        "Subject": "EEE4027 - Roboics and Control",
+        "Faculty name": "Joshua Sir",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LDNAwfu7DOZ4nFY1a8d3Ix",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "136",
+        "Subject": "Electrical safety",
+        "Faculty name": "Jaganatha Pandian B",
+        "Slot": "L31+32",
+        "Whatsapp Link": "https://chat.whatsapp.com/F0kJdlj9kO0LGGFzbEU9fn",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "137",
+        "Subject": "Electromagnetic field theory",
+        "Faculty name": "Yogesh kumar choukiker",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BT57vpjoi4n86SkmO4d21Z",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "138",
+        "Subject": "Electromagnetic field theory",
+        "Faculty name": "Christina Josephine malathi A",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JkwFuVY4XGY8kzk4uzj4Nm",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "139",
+        "Subject": "Electromechanical Conversion",
+        "Faculty name": "Raja Singh",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXDTqmDbMsc2ovV1DiTyxW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "140",
+        "Subject": "Emech",
+        "Faculty name": "Jacob Regland",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DjGr5X6TDu70eZ1udZKKb7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "141",
+        "Subject": "EMF Theory",
+        "Faculty name": "Yogesh Kumar C",
+        "Slot": "F2+TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GT0PBMPZ0Ox8HaH6oJeI07",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "142",
+        "Subject": "EMFT",
+        "Faculty name": "Rajesh N",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FTqF64j2y6lHRqGy7nptVo",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "143",
+        "Subject": "Energy management and SCADA",
+        "Faculty name": "Gokulakrishnan G",
+        "Slot": "D2+TD2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Hfs7TtJuqjU1p0HLqUFcNf",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "144",
+        "Subject": "Engineering Thermodynamics",
+        "Faculty name": "Senthilkumar P",
+        "Slot": "A2+TA2+V3",
+        "Whatsapp Link": "https://chat.whatsapp.com/Dqm3339wtXJGslALXWlw8e",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "145",
+        "Subject": "Engineering Thermodynamics",
+        "Faculty name": "Thundil Karuppa Raj R",
+        "Slot": "A1+TA1+V1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HTZwBgQtAOlByAwDCCO0lu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "146",
+        "Subject": "Engineering Thermodynamics",
+        "Faculty name": "Abinash Mohanta",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DJk9JeJ1EvF6gGFYa0Sx7k",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "147",
+        "Subject": "ETHINUS (2nd Year)",
+        "Faculty name": "ETHINUS",
+        "Slot": "E1 & E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FrNQUjgkXHf8zr1RYU7SgH",
+        "Telegram": "https://t.me/joinchat/Or1zCU_QobmM5y-cbxQ2eA"
+    },
+    {
+        "Sl.No": "148",
+        "Subject": "ETHINUS (3rd Year)",
+        "Faculty name": "ETHINUS",
+        "Slot": "D1 & D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Kpxvtzb1IsGBsUy58sVgKQ",
+        "Telegram": "https://t.me/joinchat/Or1zCVgBRZVjTRnfktTalQ"
+    },
+    {
+        "Sl.No": "149",
+        "Subject": "EVS",
+        "Faculty name": "Prabhakaran D",
+        "Slot": "A1+TA1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EJGgg8W2wgkCSL5tBNV6nj",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "150",
+        "Subject": "FACE",
+        "Faculty name": "FACE",
+        "Slot": "E1+TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FeGCcEwtiAmL5gQqyMeRSE",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "151",
+        "Subject": "FACE (2nd Year)",
+        "Faculty name": "FACE",
+        "Slot": "E1 & E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JOgNOZ6IStgGmooPqugYzD",
+        "Telegram": "https://t.me/joinchat/Or1zCU1MnYixRqWhlFqbzA"
+    },
+    {
+        "Sl.No": "152",
+        "Subject": "FACE (3rd Year)",
+        "Faculty name": "FACE",
+        "Slot": "D1 & D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HbSp8pCy4tQ40832a8GLJw",
+        "Telegram": "https://t.me/joinchat/Or1zCU_8Zs-qbl0K6VrNvg"
+    },
+    {
+        "Sl.No": "153",
+        "Subject": "Facilities and Process Planning",
+        "Faculty name": "Aravind Raj S",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KzgY7oeuUsV6wlmpUWHx4G",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "154",
+        "Subject": "Fluid Mechanics",
+        "Faculty name": "Nagamalleswara Rao K",
+        "Slot": "B2+TB2+V4",
+        "Whatsapp Link": "https://chat.whatsapp.com/HZteZ6iiFO05AgRPjqCB6R",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "155",
+        "Subject": "FLUID MECHANICS",
+        "Faculty name": "SREETHUL DAS",
+        "Slot": "A2 +TA2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G7OgjZHlr0pBzz4W0aoCHG",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "156",
+        "Subject": "FRE1001 French",
+        "Faculty name": "Shantanu",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jt2YzUEoKIU6VsQQkSnU06",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "157",
+        "Subject": "French",
+        "Faculty name": "Sansanu",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CbHiWtGU7tI6kYaHvUFOh3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "158",
+        "Subject": "Functional Hindi",
+        "Faculty name": "Jayalaxmi K",
+        "Slot": "B1 and L13+14",
+        "Whatsapp Link": "https://chat.whatsapp.com/FTver5eJQoJ530hOaJGVU5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "159",
+        "Subject": "Fundamentals of aptitude (STS2021)",
+        "Faculty name": "Face",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/ILab1GCt9oK1QsDCcN0mOL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "160",
+        "Subject": "Gas Dynamics and Jet Propulsion",
+        "Faculty name": "Bibin John",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CR2u2W4Cnv0DDije1k9wna",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "161",
+        "Subject": "German",
+        "Faculty name": "Dhananjay Kumar",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G9tVsGedo4e7qgjMXIWX9o",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "162",
+        "Subject": "Getting Started to Skill Enhancement",
+        "Faculty name": "Smart TT524",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/J6OBA8dkQCgBEDqEIITq2b",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "163",
+        "Subject": "HCI",
+        "Faculty name": "Joshva devadas t",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KwoKkTd4ztHIaUxSjBzl9I",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "164",
+        "Subject": "HCI",
+        "Faculty name": "Rajeswari C",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gdh2zbcUAH5LRDdPMRLZCI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "165",
+        "Subject": "HEAT TRANSFER",
+        "Faculty name": "Somusundharam S",
+        "Slot": "C1+TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IA64vrSMHSSIxCMdYAzW5J",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "166",
+        "Subject": "Heat Transfer",
+        "Faculty name": "Devendra Kumar",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Eh63uJFo38LBofogkfyDzH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "167",
+        "Subject": "Heat transfer",
+        "Faculty name": "SENTHUR PRABU",
+        "Slot": "C1+TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/C2zyJzxzU3H0GPg8gO2jJk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "168",
+        "Subject": "Heat Transfer",
+        "Faculty name": "Somasundaram S",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IA64vrSMHSSIxCMdYAzW5J",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "169",
+        "Subject": "HEAT TRANSFER",
+        "Faculty name": "Tapani Kumar Hotta",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ez6k5p7DiRZ2qfi9isLGEi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "170",
+        "Subject": "HUM1012 introduction to Sociology",
+        "Faculty name": "Reshmi M",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/I0P9fo5cr4pDtEcOmbXA5c",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "171",
+        "Subject": "Human computer interaction",
+        "Faculty name": "Deepa M",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JoCnvv7nBhbK5Key5azGiK",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "172",
+        "Subject": "Human Computer Interaction",
+        "Faculty name": "Dheeba J",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/I2iENMCVP8NI6FkxwuOlnH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "173",
+        "Subject": "Human Computer Interaction",
+        "Faculty name": "Thenmozhi T",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/G9tVsGedo4e7qgjMXIWX9o",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "174",
+        "Subject": "Human computer interaction",
+        "Faculty name": "Swathi J N",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KiX4k7G0P8wEzjeH5drdRU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "175",
+        "Subject": "HUMAN COMPUTER INTERACTION",
+        "Faculty name": "RAJESWARI C",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GucID4StLnlHj94xqmlXnU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "176",
+        "Subject": "HUMAN COMPUTER INTERACTION",
+        "Faculty name": "RAJESWARI C",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GucID4StLnlHj94xqmlXnU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "177",
+        "Subject": "Human computer interaction (SWE1018)",
+        "Faculty name": "Deepa M",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CcT7LlFi8Kl0UV38uLH718",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "178",
+        "Subject": "Human Computer of Interaction - ITE1014",
+        "Faculty name": "Ramya G",
+        "Slot": "C2+TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FmlEnEyqKR62d32GPkkcZf",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "179",
+        "Subject": "Hydrology",
+        "Faculty name": "Vignesh Rajkumar L",
+        "Slot": "F2+TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FsZ0Mo2WDYVLaBCdJSavKW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "180",
+        "Subject": "IIP",
+        "Faculty name": "Aruni Nanbirai",
+        "Slot": "TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BTup3m20Xmi0hOWHuXRZsP",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "181",
+        "Subject": "IIP",
+        "Faculty name": "Senthur Pandey",
+        "Slot": "TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HlEHPNVuzh37YFX0k01xKd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "182",
+        "Subject": "IIP",
+        "Faculty name": "Bhaskar Sen Guptha",
+        "Slot": "TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXoQgzkl0yuKK0WilR4nN5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "183",
+        "Subject": "IIP",
+        "Faculty name": "Arpan Kumar Nayak",
+        "Slot": "TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jl04XcuVMGd1Syztm70JNI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "184",
+        "Subject": "IIP",
+        "Faculty name": "Sumangala TP",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GA9quLALEaI7cPqGDT1M6G",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "185",
+        "Subject": "IIP",
+        "Faculty name": "Sumangala TP",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GA9quLALEaI7cPqGDT1M6G",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "186",
+        "Subject": "Iip",
+        "Faculty name": "Bhaskar sengupta",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXoQgzkl0yuKK0WilR4nN5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "187",
+        "Subject": "IIP",
+        "Faculty name": "Ravi Shankar babu",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/E8gCWFsUm24Egl6bmQKmS3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "188",
+        "Subject": "IIP",
+        "Faculty name": "Umeel",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GvvnIpy37Wl9mdZJ72XPpA",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "189",
+        "Subject": "IIP",
+        "Faculty name": "Subramaniam c k",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/E2G3UIReNMRLHqQ85NgFrK",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "190",
+        "Subject": "IIP",
+        "Faculty name": "Umeel",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GvvnIpy37Wl9mdZJ72XPpA",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "191",
+        "Subject": "Image Processing",
+        "Faculty name": "Prabhu S",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Hx5mMSdmLzz971FPxs9jfE",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "192",
+        "Subject": "Image Processing",
+        "Faculty name": "Anisha M Lal",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/B8M02ttfBBa9dJodoLpGaH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "193",
+        "Subject": "Image processing",
+        "Faculty name": "Rajakumar k",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DUrQcNILPKxJSX7BGf42vs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "194",
+        "Subject": "Image processing",
+        "Faculty name": "Akila victor",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/E5WJmH6gaFKFqg8W8YX00h",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "195",
+        "Subject": "Image processing",
+        "Faculty name": "Swathi j n",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/J7gxapdDdtf2xUFGvbURWk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "196",
+        "Subject": "Indian Classical Music",
+        "Faculty name": "Sudheer C. V",
+        "Slot": "TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LJDGIKt3yob5Va4aBT6pA0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "197",
+        "Subject": "Indian Classical music",
+        "Faculty name": "Sudheer CV",
+        "Slot": "TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LJDGIKt3yob5Va4aBT6pA0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "198",
+        "Subject": "Industrial biotech",
+        "Faculty name": "Gayatri M",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DlYhVe93gPE8UBqvCGUrFU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "199",
+        "Subject": "Industrial biotechnology",
+        "Faculty name": "Gayathri M",
+        "Slot": "C1+TC1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DwoyZYvPaOGAbacanwHACL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "200",
+        "Subject": "Industrial Biotechnology",
+        "Faculty name": "Gayathri M",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DwoyZYvPaOGAbacanwHACL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "201",
+        "Subject": "Industrial Engineering and Management",
+        "Faculty name": "Jayakrishna K",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CTB9jD1AE6SDi3345Zbmj2",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "202",
+        "Subject": "Information security and analysis audit",
+        "Faculty name": "Sendhil kumar k.s",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G0wMqvdQxrrEYhGVeQix6Q",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "203",
+        "Subject": "Information Security Audit and Analysis ( Nasscom )",
+        "Faculty name": "Amutha Prabhakar",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/H242qOlJ3SW5dy0PZsjjWi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "204",
+        "Subject": "Internet and Web Programming",
+        "Faculty name": "Rajkumar R",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GHJtZyEtrj7HijTqcklTuF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "205",
+        "Subject": "Introduction to Innovative Projects",
+        "Faculty name": "Krishna Chandar N",
+        "Slot": "TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Bfi7glsowIe6ZfBI2wZ8Ka",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "206",
+        "Subject": "Introduction To Innovative Projects",
+        "Faculty name": "Arpan Kumar Nayak",
+        "Slot": "TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jl04XcuVMGd1Syztm70JNI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "207",
+        "Subject": "Introduction to innovative projects (IIP)",
+        "Faculty name": "Ravi shankar babu",
+        "Slot": "Tg1",
+        "Whatsapp Link": "https://chat.whatsapp.com/E8gCWFsUm24Egl6bmQKmS3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "208",
+        "Subject": "introduction to inovative project",
+        "Faculty name": "Sridhar s",
+        "Slot": "TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/D3QkmG07kDg9QfZfBue5ZO",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "209",
+        "Subject": "Introduction to nano science and technology",
+        "Faculty name": "Swati g",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/H0po4qrywImE3pCUffH5ux",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "210",
+        "Subject": "Introduction to nanoscience and nanotechnology",
+        "Faculty name": "Saurabh nagar",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HqMmYzdS62c9VxV8MFPBzE",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "211",
+        "Subject": "IOT",
+        "Faculty name": "Praveen Kumar",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GnesMN8rDsQK5QlWB9g5Fh",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "212",
+        "Subject": "IOT",
+        "Faculty name": "Aparna mohanty",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Er11AZHZr6U02qyyyBB1Df",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "213",
+        "Subject": "IWP",
+        "Faculty name": "Lydia Jane",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FX3z3BvGpa6J77Q8xN4nCD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "214",
+        "Subject": "IWP(internet and web programming)",
+        "Faculty name": "Nalini N",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Bc5DLjX19BGD73y47hXk9M",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "215",
+        "Subject": "Java",
+        "Faculty name": "Anto S",
+        "Slot": "G1 + TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Bnro1a76e32JDbARJuJBlp",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "216",
+        "Subject": "java",
+        "Faculty name": "Anuradha D",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CQqR8PiFSHX0vvItoaCCYw",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "217",
+        "Subject": "Java for beginners",
+        "Faculty name": "SMART",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DPAJ9fJBTjoDtHnLPi7tjY",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "218",
+        "Subject": "Java programming",
+        "Faculty name": "Priya G",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cpmte1q8UaxBvdDUGt7luO",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "219",
+        "Subject": "Java Programming",
+        "Faculty name": "Jaishankar N",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FI19gsYAVhCKp8Dhb3gnk9",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "220",
+        "Subject": "Java Programming (CSE1007)",
+        "Faculty name": "Priya G",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Hudm5hMNTvK0rQJtc5hhoY",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "221",
+        "Subject": "Lean Start up management",
+        "Faculty name": "Suraj Khuse Shekhar",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CRtM18Pbq6RJx14oMZ7Uej",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "222",
+        "Subject": "Lean Start-Up Management",
+        "Faculty name": "Raghuraman DRS",
+        "Slot": "TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LhCrR3mkuBv0quwOJpKaZU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "223",
+        "Subject": "Lean Startup Management",
+        "Faculty name": "Remya L",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXaCTBNyzft6RAdtGgseo3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "224",
+        "Subject": "Lean startup management",
+        "Faculty name": "Jose S",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/E0HF8g2cokK6RhVC1vYjXs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "225",
+        "Subject": "Lean startup management",
+        "Faculty name": "Gangatharan C",
+        "Slot": "TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DJNxYlhqP1R9HwnnWy6k7F",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "226",
+        "Subject": "Lean startup management",
+        "Faculty name": "Bhanu sree reddy",
+        "Slot": "TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Kksln2BLkY0H8UnJQuYXOG",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "227",
+        "Subject": "Lean Startup Management",
+        "Faculty name": "Rajkumar P",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FT3pTebk23b9nG6CYQcxNQ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "228",
+        "Subject": "Lic",
+        "Faculty name": "Deepika rani sona",
+        "Slot": "G1+G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LK7KNoJK5FoHnwiXdbecMo",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "229",
+        "Subject": "Linear Applied Algebra",
+        "Faculty name": "Ashish Kumar Prasad",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IRqgm5S71ShGpy1IvPv7qd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "230",
+        "Subject": "Lsm",
+        "Faculty name": "Saurabh gupta",
+        "Slot": "TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BmXS2waRtKZ1CKTodBQmw0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "231",
+        "Subject": "Lsm",
+        "Faculty name": "Atul Kumar",
+        "Slot": "Te2",
+        "Whatsapp Link": "https://chat.whatsapp.com/J1qEm70w0wEGj4dEpHDnFT",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "232",
+        "Subject": "Machining process and metallurgy (MPM)",
+        "Faculty name": "Anoj Giri",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ei5vfbWWu9eLiicgJOQP0R",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "233",
+        "Subject": "Machining process and metrology",
+        "Faculty name": "Surya prem anand",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DM1l0dTi7bv8MTumDwsc3T",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "234",
+        "Subject": "Machining Process and Metrology",
+        "Faculty name": "Oyyaravelu R",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BvfJwWQnfXE8JNJVHBtJvk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "235",
+        "Subject": "Machining Process and Metrology",
+        "Faculty name": "Venkateshwarlu",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/L78QdNisxDX7Vs7cMQw16D",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "236",
+        "Subject": "Machining Process and Metrology",
+        "Faculty name": "Venkateshwarlu",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L78QdNisxDX7Vs7cMQw16D",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "237",
+        "Subject": "Machining Processes and Metrology",
+        "Faculty name": "Venkateshwarlu B",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L78QdNisxDX7Vs7cMQw16D",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "238",
+        "Subject": "Machining Processes and Metrology",
+        "Faculty name": "Srinagalakshmi Nammi",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BFGEma6zVtTGtNF4WjgD3k",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "239",
+        "Subject": "MAT2001 Stats",
+        "Faculty name": "Nandhini S",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/I9Jq2CHoedU8Tbl3UekHZa",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "240",
+        "Subject": "MAT3003 COMPLEX VARIABLES",
+        "Faculty name": "Mubashir Unnissa",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DkeOhIe9WsJH5SMHBfD222",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "241",
+        "Subject": "Measurement and Instrumentation",
+        "Faculty name": "Thamilmaran A",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ETyfWoU96QUIiFFKxwUkm4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "242",
+        "Subject": "Measurement and Instrumentation",
+        "Faculty name": "Medarametla P",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GQjcdtExAr8BjjMsFNyGOL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "243",
+        "Subject": "Measurement and Instrumentation",
+        "Faculty name": "Thamilmaran",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ii6ma62gaQC6r2JIU1H0f7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "244",
+        "Subject": "Mechanics Of Machines",
+        "Faculty name": "Anil P.M",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LCRje9vCOhk9l51OC5ohZ6",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "245",
+        "Subject": "Mechanics of Machines",
+        "Faculty name": "Manikandan M",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FsdBQyTbLavHl7213oK0sL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "246",
+        "Subject": "Mechanics of Machines",
+        "Faculty name": "Rajesh M",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GYPQcRDzRbjDQriU48crLR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "247",
+        "Subject": "MEE2020 Metal Forming Theory And Practice",
+        "Faculty name": "Devasri Fuloria",
+        "Slot": "B2+TB2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DEDeBnKDF9y8QHH6QFpGc4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "248",
+        "Subject": "MEE3501 Product Development",
+        "Faculty name": "Aravind Raj",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HaROnMA4LhhGc4FA8q296b",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "249",
+        "Subject": "Metal Casting Technology",
+        "Faculty name": "Narendra Kumar U",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HdxB7bjf2T2DsRox4gt7l4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "250",
+        "Subject": "Metal Casting Technology",
+        "Faculty name": "Narendra Kumar U",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/D2NTjGtSjyFFytj2nWiEHv",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "251",
+        "Subject": "Metal casting technology",
+        "Faculty name": "Sundaramali G",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CWc4R5CwI7bAeCxfpgbxKD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "252",
+        "Subject": "Microcontroller and it's applications",
+        "Faculty name": "Sundar.s",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JTz9qwR1dK2C3Gc5ZB1hCL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "253",
+        "Subject": "Microcontroller and it’s application",
+        "Faculty name": "Kathikeyan A",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KaVwFawDbWF1f9CoEgR9Av",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "254",
+        "Subject": "MICROCONTROLLER AND ITS APPLICATIONS",
+        "Faculty name": "SUMITKUMAR.J",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JmkTy3lCEy896FdHAwjK1C",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "255",
+        "Subject": "Microcontroller and its applications",
+        "Faculty name": "Sundar.s",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KTkZtIdTuEQ0wUc646UiH3",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "256",
+        "Subject": "Microcontroller and its applications",
+        "Faculty name": "Shanmugsundaram",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ELIybZFJ1o10mefuNrvnnN",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "257",
+        "Subject": "Microprocessor(CSE)",
+        "Faculty name": "Antony Xavier Glittas",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G3AJuUhTWnjJfPBiiFJnwU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "258",
+        "Subject": "Molecular biology",
+        "Faculty name": "Alka Mehta",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CPLBqDjlMWf2NVS4G6UCcf",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "259",
+        "Subject": "Molecular biology",
+        "Faculty name": "Subhadradevi",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FABIUmFwJSBCTAgKqHkXIw",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "260",
+        "Subject": "Molecular biology",
+        "Faculty name": "Subhadradevi",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GcWfruh147i4oNTBISWH1n",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "261",
+        "Subject": "Nano",
+        "Faculty name": "Niroj Kumar sahu",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HNuRnIPbKcq27Kb5XwySIk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "262",
+        "Subject": "Nano technology",
+        "Faculty name": "Satyanarayan",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JKCYHP0skxh9GZSogjaczw",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "263",
+        "Subject": "Nasscom",
+        "Faculty name": "Sendhil kumar",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FqTbZtsYO2UILpxRqYVwYX",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "264",
+        "Subject": "NASSCOM (CSE3501)",
+        "Faculty name": "Chandramohan B",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/ClIdFNLpVC1KNWdnPevSlB",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "265",
+        "Subject": "Nasscom 3rd year",
+        "Faculty name": "Siva shanmugam",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BCcnmZsXf6O3uU2Mu5S7bs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "266",
+        "Subject": "Nasscom course",
+        "Faculty name": "Rajarajan",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G93zew05ivkLYuaWp9Ncy4",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "267",
+        "Subject": "Nasscom- Information Security & Audit",
+        "Faculty name": "Anil Kumar K",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cx9J89yDdHZLh0n2e1L95N",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "268",
+        "Subject": "NASSCOM(Information security Analysis and Audit)",
+        "Faculty name": "Ruby D",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FmIslaRmEsJ81uvhpeMPeD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "269",
+        "Subject": "Natural Language Processing",
+        "Faculty name": "Sharmila Banu K",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/K3s4iMHgWWCKn8RouNQxo0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "270",
+        "Subject": "NDMM",
+        "Faculty name": "Ganapathy G P",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JsKG1kvn3YF3pXBAO0kdcc",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "271",
+        "Subject": "Network and communication",
+        "Faculty name": "Deena J",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GeyueXwls1mHJHEkFvbony",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "272",
+        "Subject": "Network and Information Security",
+        "Faculty name": "USHA DEVI G",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LEfddkiLQpS326rk6p3ZnL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "273",
+        "Subject": "New venture planning",
+        "Faculty name": "Jayant Gopal",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gml8FG0faIE0K1pwcM4B1f",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "274",
+        "Subject": "New Venture Planning and Management",
+        "Faculty name": "Jayant Gopal Thakare",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EAGSPaLSevYDnzM1EJrENC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "275",
+        "Subject": "NLP",
+        "Faculty name": "Rajesh kannan",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JftDokQnaqb6V7WJ4h1lvn",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "276",
+        "Subject": "OPEN SOURCE PROGRAMMING",
+        "Faculty name": "JAYAKUMAR S",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KPDEwK8EayZ6OZ21JsrngI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "277",
+        "Subject": "Operating system",
+        "Faculty name": "Gopinath MP",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EvKdh9JSIxzG956yyGdwXD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "278",
+        "Subject": "Operating system",
+        "Faculty name": "Santhi H",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gsmjf8B6CgzBvsDuOt2feV",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "279",
+        "Subject": "Operating Systems",
+        "Faculty name": "Jothi K R",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GLZI2vkEPi7JbzggJsnBx1",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "280",
+        "Subject": "Operating Systems",
+        "Faculty name": "Gopinath M.P",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GHIda2mCuc76MXYaqttHZO",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "281",
+        "Subject": "Operating Systems",
+        "Faculty name": "Santhi H.",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FjeZAKhcBcF3ijlqTwXC9C",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "282",
+        "Subject": "Operating Systems",
+        "Faculty name": "Vijayrajan V",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HbkPw6vkRXP58sMXFt5LPH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "283",
+        "Subject": "Optical",
+        "Faculty name": "Sangeeta. A",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FyVGnpCqa5X6aj29W7O6o2",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "284",
+        "Subject": "Opto electronic",
+        "Faculty name": "Gautam narayan",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/C1NEwlTt7uBKMK9iNFP6xO",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "285",
+        "Subject": "Opto Electronic",
+        "Faculty name": "REVATHI S",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LXbNGad60Mo7xeccWEj7CV",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "286",
+        "Subject": "Opto electronics",
+        "Faculty name": "Jabeena",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DRmNb2hknYJ9TfWZyfkfKs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "287",
+        "Subject": "Optoelectronics",
+        "Faculty name": "Jabeena A",
+        "Slot": "C2+TC2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FPEjvlgTfhGAGEY8QC7TpX",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "288",
+        "Subject": "OS",
+        "Faculty name": "Rajkumar S",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/D0dCQOyztUI8q8Uyfs0L1b",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "289",
+        "Subject": "OS",
+        "Faculty name": "Meenakshi S P",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DRV7A8oPbSpDchmp2LgNCt",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "290",
+        "Subject": "OS",
+        "Faculty name": "Ruby D",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KxZoTRfGAv573lN26VOcrA",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "291",
+        "Subject": "OS",
+        "Faculty name": "Gopinath MP",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/J0ahLQ8uiAiGkA8xOme5pi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "292",
+        "Subject": "Os",
+        "Faculty name": "Manikandan",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IAZjvV3dic4IxTeNeNEzDL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "293",
+        "Subject": "Parallel and distributed computing",
+        "Faculty name": "Anto S",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IvNxmEmMDt9Dvwe41yCNBz",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "294",
+        "Subject": "Parallel and Distributed Computing",
+        "Faculty name": "Deebak B D",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/E3FJuTKKPjLLYjZmXXFw93",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "295",
+        "Subject": "Parallel and Distributed Computing",
+        "Faculty name": "Manoov R",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KsaScsd9AP0AtfktsFMZlW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "296",
+        "Subject": "Parallel and Distributed Computing",
+        "Faculty name": "Narayanan Prasanth",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/C9zo2dzoc4UG9yVDisPH25",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "297",
+        "Subject": "PDC",
+        "Faculty name": "VIMALA DEVI K",
+        "Slot": "Ca2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FqrkHnQ2wQvARTzpl7mcRX",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "298",
+        "Subject": "PDC",
+        "Faculty name": "Murugan k",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LH5oD3p5NAl1Ao6SgxH1Ss",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "299",
+        "Subject": "PHY1901Introduction To Innovative Project",
+        "Faculty name": "Usha Rani M",
+        "Slot": "TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JpEWiTyG3C04GI8ptjpgwC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "300",
+        "Subject": "Power Electronics and Drives",
+        "Faculty name": "Subramanian K",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IBcD0p9jj387ntGYLSrNo1",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "301",
+        "Subject": "Probability theory and Random processes(PTRP)",
+        "Faculty name": "Ramachandra reddy",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IowfPyUjrkZ81eX3Hng60s",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "302",
+        "Subject": "Product design for manufacturing-MEE2008",
+        "Faculty name": "Darius Gnanaraj S",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LGJSc6qrStCC00K7yPJzdS",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "303",
+        "Subject": "Product development and management",
+        "Faculty name": "Solomon bobby",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/G3QMlnUsFOD4LoR8l159F6",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "304",
+        "Subject": "Product development and management",
+        "Faculty name": "Arun Tom Mathew",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EzJA168vV3bD0abcIfk7eH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "305",
+        "Subject": "Product Development and Management",
+        "Faculty name": "Renold Elson",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JWV7M7CN61wFB7NQ4SdYFi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "306",
+        "Subject": "Product Development and Management MEE3501",
+        "Faculty name": "Seenuvasaperumal P",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L1WqluQgq3o761kNVocJEU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "307",
+        "Subject": "Psychology in everyday life",
+        "Faculty name": "Naveen kumar",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JwDdL0p6Zao8eqZrvIz4WL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "308",
+        "Subject": "Rapid Manufacturing",
+        "Faculty name": "Murugan R",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/L9YTzMH3XCcAEOUYmOp5rd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "309",
+        "Subject": "Rapid manufacturing",
+        "Faculty name": "Sugavaneswaran",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DCee2MLm3BFINHK41Af0nL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "310",
+        "Subject": "Rapid manufacturing technologies",
+        "Faculty name": "SUGAVANESWARAN M",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DCee2MLm3BFINHK41Af0nL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "311",
+        "Subject": "Requirements engineering and management",
+        "Faculty name": "Rajesh Kaluri",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IeclS8LVSgUDwFC4roL3DT",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "312",
+        "Subject": "ROBOTICS AND AUTOMATION (ECE2008)",
+        "Faculty name": "ABRAHAM SAMPSON.S",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Lr0KBsQCZs5DA3S5KgApWr",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "313",
+        "Subject": "Robotics and Control",
+        "Faculty name": "Vinodh Kumar E",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FYB6sHS8KPzH8vDTCtTJpz",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "314",
+        "Subject": "SENSORS AND INSTRUMENTATION",
+        "Faculty name": "SWATI G",
+        "Slot": "TG2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Cai7kXU0QYU0Zba0E1gmiY",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "315",
+        "Subject": "Sensors and instrumentation",
+        "Faculty name": "Swathi G",
+        "Slot": "TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HofR02tGggVLaFlXSkECnH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "316",
+        "Subject": "Sensors and Instrumentation",
+        "Faculty name": "Swati G",
+        "Slot": "TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gcs0eL6k0NA3aZFaXhQyYJ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "317",
+        "Subject": "Sensors and instrumentation(ECE1005)",
+        "Faculty name": "Muthu Raja.S",
+        "Slot": "TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DsOb3l0Rpl2AIYfrFIY9zv",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "318",
+        "Subject": "Sensors and signal conditioning",
+        "Faculty name": "Venkata lakshmi narayana",
+        "Slot": "D2+TD2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KfE0VmTe4tnBVe24jJwJQk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "319",
+        "Subject": "Signal and system",
+        "Faculty name": "Avinash Chandra",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GHhuVSR1fBJLJvFA3jVDdl",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "320",
+        "Subject": "signals",
+        "Faculty name": "RAJESH N",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jge75kyqpdsCMqN72H90KL",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "321",
+        "Subject": "Signals and system",
+        "Faculty name": "Ashish p",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FLviLMMq2eKFrDYSoZnWpk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "322",
+        "Subject": "Signals and System",
+        "Faculty name": "Amutha Prabha",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/I7fRNroJI4j6559pXwLyzD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "323",
+        "Subject": "Signals and systems",
+        "Faculty name": "Vijay Priya R",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/De37OaKaOSb0kQO0OWgsNs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "324",
+        "Subject": "Signals and Systems",
+        "Faculty name": "Karthikeyan M",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Dk4MnnocBwdCQ43NTYaHAJ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "325",
+        "Subject": "Signals and systems",
+        "Faculty name": "Yepuganti karuna",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HHFIKol3HM86iF3b4Nqt8q",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "326",
+        "Subject": "Signals and systems",
+        "Faculty name": "Avinash Chandra",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Dvv72zeuiDv0lZ0iT0klto",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "327",
+        "Subject": "SIN",
+        "Faculty name": "Govinda K",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/EYs2rxKWMlN40Yg14RlCK0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "328",
+        "Subject": "SMART",
+        "Faculty name": "STS2101 SJT 104",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gwe5Zh6wz1Z386G38fzby6",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "329",
+        "Subject": "SMART (2nd Year)",
+        "Faculty name": "SMART",
+        "Slot": "E1 & E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/D70BvZhzTrr3kfqlmgtNQr",
+        "Telegram": "https://t.me/joinchat/Or1zCVNqveno2Vs1cgls2w"
+    },
+    {
+        "Sl.No": "330",
+        "Subject": "SMART (3rd Year)",
+        "Faculty name": "SMART",
+        "Slot": "D1 & D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IWeGGUTiAjCJPN3LUcIarR",
+        "Telegram": "https://t.me/joinchat/Or1zCUlPyLGcLC5Td1f2LQ"
+    },
+    {
+        "Sl.No": "331",
+        "Subject": "Social and information network",
+        "Faculty name": "Meenakshi so",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IPJeVKUPCHA1mdIgxGwJ4b",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "332",
+        "Subject": "Social and information network",
+        "Faculty name": "MEENAKSHI SP",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IPJeVKUPCHA1mdIgxGwJ4b",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "333",
+        "Subject": "Social and Information Networks",
+        "Faculty name": "Vijayasheryl V",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CV1QrEgm7o4JsmEEKB878f",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "334",
+        "Subject": "Social and information networks",
+        "Faculty name": "Govinda K",
+        "Slot": "B1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BfZHeyaEncKB0VRWK68EJh",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "335",
+        "Subject": "Soft skill (STS3401)",
+        "Faculty name": "SMART soft skill",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/K2r8QCrDReBF7PO4mZ8gXI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "336",
+        "Subject": "Soft skills",
+        "Faculty name": "Soft skills smart MB310A",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HVagGrFMkP3EwBI4MsnAQ7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "337",
+        "Subject": "Soft skills",
+        "Faculty name": "Face soft skills SJT 103",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BaWFOrtnxs05s5EQrxz9QF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "338",
+        "Subject": "Soft Skills",
+        "Faculty name": "Soft Skills - TT434A",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BeDgz9heup7HnDkCmCJN6R",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "339",
+        "Subject": "Softskills",
+        "Faculty name": "Ethnus",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Je8OmMdKPsf47dizg7OhZd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "340",
+        "Subject": "Softskills",
+        "Faculty name": "STS3101",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G5sRhgnZ7Cb0vQkxY6yZag",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "341",
+        "Subject": "Softskills",
+        "Faculty name": "Ethnus",
+        "Slot": "E1+TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DjOEVa0DbDh1QZcXrhxb4p",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "342",
+        "Subject": "Softskills",
+        "Faculty name": "SMART SJT505",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/IJky2W8g7LNKZp7DLawhIs",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "343",
+        "Subject": "SOFTSKILLS",
+        "Faculty name": "SMART",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CtbBq2LXnXKBg5gB9e6DDC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "344",
+        "Subject": "SOFTSKILLS",
+        "Faculty name": "SMART SJT601",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CtbBq2LXnXKBg5gB9e6DDC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "345",
+        "Subject": "Softskills",
+        "Faculty name": "Smart 434A",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BeDgz9heup7HnDkCmCJN6R",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "346",
+        "Subject": "SOFTSKILLS",
+        "Faculty name": "FACE TT423",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JPD32VjzUK86gPfmxnOC04",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "347",
+        "Subject": "Softskills",
+        "Faculty name": "Ethnus sjt112",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DjOEVa0DbDh1QZcXrhxb4p",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "348",
+        "Subject": "Softskills SJT 707",
+        "Faculty name": "Face",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GE7IAnEraEBEGHqDHHXduF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "349",
+        "Subject": "SoftSkills 3201",
+        "Faculty name": "SJT 504(SMART)",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jm2bRRF55PM6u32T5bNKDQ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "350",
+        "Subject": "Softskills third year- Programming skills for employment",
+        "Faculty name": "FACE SJT707 (STS3201)",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KyX7GEW9tMDKBcFau0Mypu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "351",
+        "Subject": "Software architecture and design",
+        "Faculty name": "Kiruba Thangam R",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/H6yXuUtRJqgIaky8CGFtmk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "352",
+        "Subject": "Software Engineering",
+        "Faculty name": "Deepikaa S",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Fhl4fpns4XtB9HJSWWhyaV",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "353",
+        "Subject": "Software engineering",
+        "Faculty name": "Gayathri A",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/D8Ve0DoIYzzG2ZZ23Nb8E0",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "354",
+        "Subject": "Software Engineering",
+        "Faculty name": "UMA K",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/CTpmY9wfxSCIjku0ZOWkTi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "355",
+        "Subject": "Software engineering process, tools and methods",
+        "Faculty name": "Tamil priya D",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/LC0Mi34K4ZqIi0qO61NfFm",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "356",
+        "Subject": "Software project management",
+        "Faculty name": "Sureka S",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/CLj3n7JHOdgCDrbwI0PF02",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "357",
+        "Subject": "Software security and Audit analysis",
+        "Faculty name": "NADESH R K",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FShgMEm9MK7JCR4Qgu9qk7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "358",
+        "Subject": "Spanish Fundamental",
+        "Faculty name": "Shilpi gupta",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LiOVjJeQUC5KXjcXkFwTFp",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "359",
+        "Subject": "Special electrical machines",
+        "Faculty name": "Vijaya Priya P",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HM43BLA0mML0oEupStlhzW",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "360",
+        "Subject": "Statistics",
+        "Faculty name": "Roy s",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HLoGlN1XwPV8em4CBSCeNK",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "361",
+        "Subject": "Statistics",
+        "Faculty name": "Rajesh bhatt",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EcXFtADnsIV2BmusegAprG",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "362",
+        "Subject": "Statistics",
+        "Faculty name": "Kalpana Priya",
+        "Slot": "B1+TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Gj7xYY1etYv3FFBO4zzMLd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "363",
+        "Subject": "Statistics",
+        "Faculty name": "Sujatha v",
+        "Slot": "F2+TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/DAeXxlNamb02LBfaI9iwQZ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "364",
+        "Subject": "Statistics",
+        "Faculty name": "Murugan V",
+        "Slot": "G1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BxzQEfY20pAE2X4CVffQLF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "365",
+        "Subject": "Statistics",
+        "Faculty name": "Mubashir Unnissa",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JJfAJF3OYuZGoDftbgSoTo",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "366",
+        "Subject": "Statistics",
+        "Faculty name": "Mubashir Unnissa",
+        "Slot": "F1+TF1",
+        "Whatsapp Link": "https://chat.whatsapp.com/F0V1Z1OBmTZ92LiyYqZKVq",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "367",
+        "Subject": "Statistics for engineers",
+        "Faculty name": "Roy.S",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HLoGlN1XwPV8em4CBSCeNK",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "368",
+        "Subject": "Statistics for Engineers",
+        "Faculty name": "Gowsalya M",
+        "Slot": "G1+TG1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LLHPfLSdbRW06EMmx6bLwl",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "369",
+        "Subject": "Statstic",
+        "Faculty name": "Nandhini",
+        "Slot": "D1+TD1",
+        "Whatsapp Link": "https://chat.whatsapp.com/ELeRnrCQ2xaLwHWs9Wn29B",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "370",
+        "Subject": "Strength of Materials",
+        "Faculty name": "Senthil Kumar S",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/BY5UiRnrfLMLwqJggNU7oC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "371",
+        "Subject": "Strength Of materials",
+        "Faculty name": "Akash Mohanty",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/GTWPh5zoV6z2VNkbu2Dkr1",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "372",
+        "Subject": "Strength Of Materials",
+        "Faculty name": "Rajesh M",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GYPQcRDzRbjDQriU48crLR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "373",
+        "Subject": "STS 2201",
+        "Faculty name": "FACE",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/FYHIo9lrCfOE4bI115ecEp",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "374",
+        "Subject": "STS 3401 Foundation to Programming Skills",
+        "Faculty name": "Ethnus",
+        "Slot": "D1",
+        "Whatsapp Link": "https://chat.whatsapp.com/EQrPjSjcKkW1ShwMgybM8U",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "375",
+        "Subject": "STS2021",
+        "Faculty name": "FACE SJT602",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JXHEFVfqQ8HB38WqSiHAZN",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "376",
+        "Subject": "STS2101",
+        "Faculty name": "FACE SJT513",
+        "Slot": "E1+TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/IqzSevGxIVNDXh6aMTRGol",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "377",
+        "Subject": "STS2101",
+        "Faculty name": "FACE - SJT 513",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/JCLKMoq4v0A1eBV8Q9Mm7P",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "378",
+        "Subject": "STS2101",
+        "Faculty name": "Ethnus",
+        "Slot": "E1+TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DHHa0ambzThKFzy6wykaYI",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "379",
+        "Subject": "STS2101 SJT 403",
+        "Faculty name": "Ethnus",
+        "Slot": "E1+TE1",
+        "Whatsapp Link": "https://chat.whatsapp.com/J1tln7jvKll2nDn0V4RbCP",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "380",
+        "Subject": "STS2201",
+        "Faculty name": "FACE SJT112",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/InVTIKDhau3GYUyBwKYEy5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "381",
+        "Subject": "STS2201",
+        "Faculty name": "FACE",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L0q680cjucy33hhKMPRJWP",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "382",
+        "Subject": "STS2201",
+        "Faculty name": "ETHNUS",
+        "Slot": "E2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ceoc2tc3nl02DZhvpf8kXH",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "383",
+        "Subject": "STS2201 SMART CDMM 303",
+        "Faculty name": "Smart faculty",
+        "Slot": "E2+TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/C4v3te3OElu8LeAl1FvBbu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "384",
+        "Subject": "STS2201 soft skills",
+        "Faculty name": "ETHNUS SJT 102",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GrN2Q5IH7407eiAlePtKh5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "385",
+        "Subject": "STS2201 softskills",
+        "Faculty name": "SJT 601 FACE",
+        "Slot": "E1",
+        "Whatsapp Link": "https://chat.whatsapp.com/D9s8RXTPSft6I7aFuLkyYk",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "386",
+        "Subject": "Sts3301",
+        "Faculty name": "SMART MB301 A",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BsB1RFKG7yrLlBdACoZHWU",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "387",
+        "Subject": "STS3401",
+        "Faculty name": "SMART",
+        "Slot": "D2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FfC57SsM7ChJypntsELdpQ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "388",
+        "Subject": "T.O.C",
+        "Faculty name": "Sivasankri S",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/L9PuXDXHHMjJOun6SajtDX",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "389",
+        "Subject": "TARP",
+        "Faculty name": "C.J.MALATHI",
+        "Slot": "TE2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HXdeeDwtXQb4JsdIdKtwcD",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "390",
+        "Subject": "TARP",
+        "Faculty name": "Kamalakannan J",
+        "Slot": "TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/G33YR4Xp3BfAzn2PMLFMWq",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "391",
+        "Subject": "TARP(EEE3999)",
+        "Faculty name": "Dhanamjayulu",
+        "Slot": "TB1",
+        "Whatsapp Link": "https://chat.whatsapp.com/B56wPJLUUI24Gvcql4Vz0x",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "392",
+        "Subject": "Technical Answers for Real World Problems (TARP)",
+        "Faculty name": "Vijesh V Joshi",
+        "Slot": "TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Jz2OO7QXyhZHA5fCQUNwjC",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "393",
+        "Subject": "Technical English -1",
+        "Faculty name": "Any Baisel",
+        "Slot": "L31+L31+L45+L46",
+        "Whatsapp Link": "https://chat.whatsapp.com/Fuf0uy0FkkvC3KJOc1Veu5",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "394",
+        "Subject": "Technical english 1",
+        "Faculty name": "Laxmi dhar dwivedi",
+        "Slot": "L31+36+45+46",
+        "Whatsapp Link": "https://chat.whatsapp.com/DuWcJayPSDUJqu6o4y4nQy",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "395",
+        "Subject": "Technical English-1",
+        "Faculty name": "Gandhimathi S.N.S",
+        "Slot": "L33+L34+L47+L48",
+        "Whatsapp Link": "https://chat.whatsapp.com/HlDr73nIKbr4CNrtGzdd0B",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "396",
+        "Subject": "Technical english-1",
+        "Faculty name": "saroja ganapathy",
+        "Slot": "L3+L4+L13+L14",
+        "Whatsapp Link": "https://chat.whatsapp.com/B8fqLzXwS7E82IImM4Zi6i",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "397",
+        "Subject": "Theory of computation",
+        "Faculty name": "Sathiya Kumar C",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/Fh2HAUsBj668BPPGIjvlRi",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "398",
+        "Subject": "Theory of Computation and Compiler Design",
+        "Faculty name": "Shalini L",
+        "Slot": "C1",
+        "Whatsapp Link": "https://chat.whatsapp.com/DoCHbu0gwWX6fDcV3x3rJr",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "399",
+        "Subject": "Theory of Computation and Compiler Design",
+        "Faculty name": "Shalini L",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/H7T4tat13hS7iC9is7KafZ",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "400",
+        "Subject": "Theory of Computation and Compiler Design",
+        "Faculty name": "Sivasankari",
+        "Slot": "A2",
+        "Whatsapp Link": "https://chat.whatsapp.com/KwlQnfDO5dKKz6jexkrGSu",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "401",
+        "Subject": "Thermal engineering systems",
+        "Faculty name": "Vijesh V Joshi",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Hlv9E3Ce9JDAC2rKwziJMd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "402",
+        "Subject": "TOC",
+        "Faculty name": "Sureshkumar Wi",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/KFWMmlf1bwk1tHVxC4cxqR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "403",
+        "Subject": "TOC",
+        "Faculty name": "Shalini L",
+        "Slot": "C2",
+        "Whatsapp Link": "https://chat.whatsapp.com/BB1sddCM5pXE9XZoT8vKwe",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "404",
+        "Subject": "TOC",
+        "Faculty name": "Sendhil kumar ks",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/JFZCts1JDwaH9fAaGs4PQd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "405",
+        "Subject": "TOC",
+        "Faculty name": "Santhi K",
+        "Slot": "A1",
+        "Whatsapp Link": "https://chat.whatsapp.com/GcBeElNH4kX14MJqoOplxd",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "406",
+        "Subject": "Total quality management and reliability",
+        "Faculty name": "Dega Nagaraju",
+        "Slot": "F2",
+        "Whatsapp Link": "https://chat.whatsapp.com/F1ybYLtx2BGBGzrGBS9WJF",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "407",
+        "Subject": "Transformation Techniques",
+        "Faculty name": "Prabhu Kumar M",
+        "Slot": "F2+TF2",
+        "Whatsapp Link": "https://chat.whatsapp.com/FEU6nUIqB9uJDQobbTJlM7",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "408",
+        "Subject": "VLSI(ECE course)",
+        "Faculty name": "Jagannadha Naidu",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/ER1fV2uiZkR0gqFAGlElLR",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "409",
+        "Subject": "Water Resource Engineering",
+        "Faculty name": "Jagdeesh P",
+        "Slot": "B2",
+        "Whatsapp Link": "https://chat.whatsapp.com/Ey2LRqfIx9k2PFvHfOqENe",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "410",
+        "Subject": "Web mining",
+        "Faculty name": "Shashank mouli satapathy",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/HjyBmdmmbrw19Vwr0YfFDf",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "411",
+        "Subject": "Web Technologies",
+        "Faculty name": "VIJAYAN R",
+        "Slot": "G2",
+        "Whatsapp Link": "https://chat.whatsapp.com/HYmDluz3fqeKwmMXy6Hq04",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "412",
+        "Subject": "Welding engineering",
+        "Faculty name": "Senthil kumaran S",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LWDPkBZQWzKBFgPtwYlXxj",
+        "Telegram": ""
+    },
+    {
+        "Sl.No": "412",
+        "Subject": "Welding engineering",
+        "Faculty name": "Senthil kumaran S",
+        "Slot": "F1",
+        "Whatsapp Link": "https://chat.whatsapp.com/LWDPkBZQWzKBFgPtwYlXxj",
+        "Telegram": ""
+    },
+  {
+    "Sl.No": "2020/07/11 12:01:14 PM GMT+5:30",
+    "Subject": "Java Programming",
+    "Faculty name": "Jaisankar N",
+    "Slot": "B2+TB2",
+    "Whatsapp Link": "https://chat.whatsapp.com/H7sn2xhgpVTBIEIM61HUwT",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 3:44:17 PM GMT+5:30",
+    "Subject": "DBMS",
+    "Faculty name": "Kuruva Lakshmanna",
+    "Slot": "D1",
+    "Whatsapp Link": "https://chat.whatsapp.com/BwXhTiIfWpgB3FTEvmB6my",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:23:16 PM GMT+5:30",
+    "Subject": "Transformation Techniques",
+    "Faculty name": "Prabhukumar",
+    "Slot": "F1",
+    "Whatsapp Link": "https://chat.whatsapp.com/Fc92FFVVQod5TbPpnIbY6s",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:29:10 PM GMT+5:30",
+    "Subject": "Data Mining",
+    "Faculty name": "Senthilkumar NC",
+    "Slot": "A1",
+    "Whatsapp Link": "https://chat.whatsapp.com/GwjEatGU3BXJQ2IxyQjxCA",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:35:20 PM GMT+5:30",
+    "Subject": "Machine Learning",
+    "Faculty name": "Durai Raj",
+    "Slot": "E1+E2",
+    "Whatsapp Link": "https://chat.whatsapp.com/C5oho4FZj3BLVzPMJTy05K",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:35:23 PM GMT+5:30",
+    "Subject": "Operating systems",
+    "Faculty name": "Rahul Raman",
+    "Slot": "F2",
+    "Whatsapp Link": "https://chat.whatsapp.com/H2DZoIBo6HbCbXzUMjf2T5",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:41:08 PM GMT+5:30",
+    "Subject": "Big Data",
+    "Faculty name": "SATHIYAMOORTHY E",
+    "Slot": "E1",
+    "Whatsapp Link": "https://chat.whatsapp.com/HlFSemyfw81KPEzUhJAa4S",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:49:28 PM GMT+5:30",
+    "Subject": "Internet and Web Programming(IWP)",
+    "Faculty name": "Naveen Kumar N",
+    "Slot": "B1",
+    "Whatsapp Link": "https://chat.whatsapp.com/K3bmv9DJM9h1etRZmUy42d",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 4:50:06 PM GMT+5:30",
+    "Subject": "Strength Of Materials",
+    "Faculty name": "Velu M",
+    "Slot": "D2+TD2",
+    "Whatsapp Link": "https://chat.whatsapp.com/KhfSvgRz5WdAag8TGiZ5Dx",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:04:54 PM GMT+5:30",
+    "Subject": "NLP",
+    "Faculty name": "SHARMILA BANU",
+    "Slot": "E1",
+    "Whatsapp Link": "https://chat.whatsapp.com/J8vI3W3cZWX0SfyrSKL451",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:05:21 PM GMT+5:30",
+    "Subject": "Welding engineering",
+    "Faculty name": "Arivazhagan n",
+    "Slot": "F2",
+    "Whatsapp Link": "https://chat.whatsapp.com/Kwo893D4GBx4xt4L265TUw",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:26:14 PM GMT+5:30",
+    "Subject": "CAO",
+    "Faculty name": "SELVI M",
+    "Slot": "B2",
+    "Whatsapp Link": "https://chat.whatsapp.com/JtE1OUDqXeJ2OLjgmLBe7A",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:31:08 PM GMT+5:30",
+    "Subject": "CAO",
+    "Faculty name": "SELVI M",
+    "Slot": "B2",
+    "Whatsapp Link": "https://chat.whatsapp.com/JtE1OUDqXeJ2OLjgmLBe7A",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:48:58 PM GMT+5:30",
+    "Subject": "Mom",
+    "Faculty name": "Sridharan K",
+    "Slot": "A2",
+    "Whatsapp Link": "https://chat.whatsapp.com/Lji5UiFT48k9iY7KVrFIOE",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 5:58:45 PM GMT+5:30",
+    "Subject": "APPLIED NUMERICAL METHODS (ANM) MAT3005",
+    "Faculty name": "SANJAY KUMAR MOHANTY",
+    "Slot": "A1+TA1+TAA1+V1",
+    "Whatsapp Link": "https://chat.whatsapp.com/EyAoGhL969SCOlO0xpLp4i",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 6:12:01 PM GMT+5:30",
+    "Subject": "face(apt) | sjt 513 | E2+TE2",
+    "Faculty name": ".....",
+    "Slot": "E2+TE2",
+    "Whatsapp Link": "https://chat.whatsapp.com/DPY1PdGe6AvHtzjsuxotI0",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 6:24:14 PM GMT+5:30",
+    "Subject": "Mobile Application Development",
+    "Faculty name": "Srinivasan",
+    "Slot": "A1+TA1",
+    "Whatsapp Link": "https://chat.whatsapp.com/JDE1CpQj4aELFi1IZu7bGe",
+    "Telegram": "https://t.me/joinchat/PrHp2k7nv8nPqSBqVX6cSw"
+  },
+  {
+    "Sl.No": "2020/07/11 6:26:38 PM GMT+5:30",
+    "Subject": "Introduction to Innovative Projects",
+    "Faculty name": "Ramesh M Thamankar",
+    "Slot": "TC2",
+    "Whatsapp Link": "https://chat.whatsapp.com/LVxBrml79My1I8NiFVd0av",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 6:26:52 PM GMT+5:30",
+    "Subject": "Mobile Application Development",
+    "Faculty name": "Srinivasan",
+    "Slot": "A1+TA1",
+    "Whatsapp Link": "https://chat.whatsapp.com/JDE1CpQj4aELFi1IZu7bGe",
+    "Telegram": "https://t.me/joinchat/PrHp2k7nv8nPqSBqVX6cSw"
+  },
+
+  {
+    "Sl.No": "2020/07/11 8:29:03 PM GMT+5:30",
+    "Subject": "STS3301 MB311",
+    "Faculty name": "FACE",
+    "Slot": "D2",
+    "Whatsapp Link": "https://chat.whatsapp.com/HN4lVM9tJ77EvyopLcNkiC",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 8:30:55 PM GMT+5:30",
+    "Subject": "OOAD C1",
+    "Faculty name": "THIPPA REDDY",
+    "Slot": "C1",
+    "Whatsapp Link": "https://chat.whatsapp.com/I7jHUUjJze20B80GxXMJIX",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 8:58:57 PM GMT+5:30",
+    "Subject": "ANM",
+    "Faculty name": "SUBRAMANYAM REDDY",
+    "Slot": "C1+TC1",
+    "Whatsapp Link": "https://chat.whatsapp.com/Kh0iDGpD4881lq3CS1hpOp",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 9:00:32 PM GMT+5:30",
+    "Subject": "ANM",
+    "Faculty name": "SUBRAMANYAM REDDY",
+    "Slot": "C1+TC1",
+    "Whatsapp Link": "https://chat.whatsapp.com/Kh0iDGpD4881lq3CS1hpOp",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 9:31:35 PM GMT+5:30",
+    "Subject": "GERMAN",
+    "Faculty name": "ARATI KUMARI",
+    "Slot": "B1",
+    "Whatsapp Link": "https://chat.whatsapp.com/FLkvswMwCuRDqipjvOozNV",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 9:35:54 PM GMT+5:30",
+    "Subject": "Web Security",
+    "Faculty name": "Arivoli",
+    "Slot": "E1",
+    "Whatsapp Link": "https://chat.whatsapp.com/Bt3m9Ax9C1k1wdTKK1ZqgS",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 9:44:03 PM GMT+5:30",
+    "Subject": "Refrigeration and Air conditioning",
+    "Faculty name": "Anoop Kumar",
+    "Slot": "A1+TA1+TAA1+V1",
+    "Whatsapp Link": "https://chat.whatsapp.com/IbAxyq3FruQ6rtHtINebAw",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 9:59:41 PM GMT+5:30",
+    "Subject": "STS 3201 FACE SJT807",
+    "Faculty name": "Face",
+    "Slot": "D1",
+    "Whatsapp Link": "https://chat.whatsapp.com/F0Gma7O39duBswNvMXJmm9",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 10:07:38 PM GMT+5:30",
+    "Subject": "Web technologies",
+    "Faculty name": "Sureka s",
+    "Slot": "G2",
+    "Whatsapp Link": "https://chat.whatsapp.com/IjnhMl9gS5248GhehIklBt",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 10:08:15 PM GMT+5:30",
+    "Subject": "TARP",
+    "Faculty name": "Jaisakthi SM",
+    "Slot": "TA-1",
+    "Whatsapp Link": "https://chat.whatsapp.com/DQflEaMwzXtKbrJd5BJRHU",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 10:09:46 PM GMT+5:30",
+    "Subject": "DBMS",
+    "Faculty name": "Dharmendra singh rajput",
+    "Slot": "A2",
+    "Whatsapp Link": "https://chat.whatsapp.com/DHGdLyNJRle5KoDPGj9nsB",
+    "Telegram": ""
+  },
+  {
+    "Sl.No": "2020/07/11 10:18:52 PM GMT+5:30",
+    "Subject": "Web mining",
+    "Faculty name": "Gopalkrishnan T",
+    "Slot": "F2",
+    "Whatsapp Link": "https://chat.whatsapp.com/FsohwAKH3azLkLiHNGXb9T",
+    "Telegram": ""
+  }
+]
